@@ -1,5 +1,10 @@
-## Hi o/
-## My name is Anderson Carneiro, I'm software engineer and my free time Gamer
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AndersonSheep.AndersonSheep" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anderson+Carneiro!;" />
+</h1>
+
+## I'm a software engineer, and my free time Gamer
 <div align="center">
   <a href="https://github.com/AndersonSheep">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonSheep&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -25,6 +30,12 @@
   <a href = "mailto:dinho1994@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.facebook.com/anderson.c.dasilva.98/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/AndersonSheep/AndersonSheep/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AndersonSheep/AndersonSheep/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
  
 </div>
